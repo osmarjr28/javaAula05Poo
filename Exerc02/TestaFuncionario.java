@@ -6,7 +6,7 @@ public class TestaFuncionario {
 
 	public static void main(String[] args) {
 
-		Funcionario func = new Funcinario("Neymar Junior", 123456789, "Paris", 10000.0f, "Futebol");
+		Funcionario func = new Funcionario("Neymar Junior", 123456789, "Paris", 10000.0f, "Futebol");
 
 		func.visualizarFuncionario();
 
